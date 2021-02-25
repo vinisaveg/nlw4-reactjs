@@ -5,7 +5,7 @@
 ### Estado da aplicação :clapper:
 
 - [x] Setup do projeto
-- [ ] API do projeto
+- [ ] Funcionalidades do projeto
 
 ### Instalação :construction_worker:
 
