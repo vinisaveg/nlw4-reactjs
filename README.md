@@ -11,6 +11,10 @@
 - [x] Setup do projeto
 - [x] Funcionalidades do projeto
 
+## Teste o app
+
+[**moveit**](https://moveit-snowy-theta.vercel.app).
+
 ### Instalação :construction_worker:
 
 1. Faça um clone do repositório:
