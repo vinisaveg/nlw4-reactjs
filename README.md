@@ -2,10 +2,14 @@
 
 > Projeto da quarta semana da Next Level Week, by [**_Rocketseat_**](https://rocketseat.com.br/).
 
+<p align="center">
+   <img src=".github/moveit.png" width="100%" height="auto"/>
+</p>
+
 ### Estado da aplicação :clapper:
 
 - [x] Setup do projeto
-- [ ] Funcionalidades do projeto
+- [x] Funcionalidades do projeto
 
 ### Instalação :construction_worker:
 
@@ -21,5 +25,26 @@
 
 ```
     yarn install
+
+```
+
+3. Inicie a aplicação em desenvolvimento
+
+```
+    yarn dev
+
+```
+
+4. Faça o build da aplicação
+
+```
+    yarn build
+
+```
+
+5. Inicie a aplicação em produção
+
+```
+    yarn start
 
 ```
